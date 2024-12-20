@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-[    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;+Stack+Web+Developer;Software+Developer;A+Learner&center=true">](https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Always+Curious+to+Learn;Passionate+about+Technology&center=true&color=800080)
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Always+Curious+to+Learn;Passionate+about+Technology&center=true&color=800080">
   </a>
 </p>
 --------------------------------------------
