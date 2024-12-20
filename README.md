@@ -1,7 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shailendra Singh Rawat
 ==============================================================================================================================================
 
-A passionate Mern Stack developer from India
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+[    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;+Stack+Web+Developer;Software+Developer;A+Learner&center=true">](https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Always+Curious+to+Learn;Passionate+about+Technology&center=true&color=800080)
+  </a>
+</p>
 --------------------------------------------
 
 🎓I'm currently pursuing an MCA (Master of Computer Applications). 💻 I've been learning to code since 2021 and enjoy building innovative projects.
