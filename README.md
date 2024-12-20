@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate Mern Stack developer from India
 --------------------------------------------
 
-🎓I'm currently pursuing an MCA (Master of Computer Applications). 💻 I've been learning to code since 2021 and enjoy building innovative projects.
+🎓I'm currently pursuing an MCA (Master of Computer Applications). 
+💻 I've been learning to code since 2021 and enjoy building innovative projects.
 
 * 🌍  I'm based in Uttarakhand, India
 * ✉️  You can contact me at [rwtshail1@gmail.com](mailto:rwtshail1@gmail.com)
