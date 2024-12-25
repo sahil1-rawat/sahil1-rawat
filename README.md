@@ -2,25 +2,30 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Always+Curious+to+Learn;Passionate+about+Technology&center=true&color=800080">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Always+Curious+to+Learn;Passionate+about+Technology&center=true&color=6A0DAD">
   </a>
 </p>
 
----
+<div style="background-color:#ffffff; padding:20px; border-radius:10px; border: 1px solid #e0e0e0;">
 
 🎓 **MCA Graduate in Progress**  
 💻 **Coding since 2021**  
-🚀 **Self Motivator and Problem Solver**
+🌟 **Driven to Build and Inspire Through Technology**
+</div>
 
 ---
 
 ## 🌍 About Me
+
+<div style="background-color:#f8f9fa; padding:15px; border-radius:10px; border: 1px solid #e0e0e0;">
 
 - 🏡 Based in **Uttarakhand, India**
 - 📩 Reach me at **[rwtshail1@gmail.com](mailto:rwtshail1@gmail.com)**
 - 🏗️ Currently building **[Trendloop-SocialMediaApp](https://github.com/sahil1-rawat/Trendloop-SocialMediaApp)**
 - 🚀 Learning **Next.js** to enhance my web development toolkit
 - 💡 Fun fact: *"Debugging taught me patience and the value of a semicolon."*
+
+</div>
 
 ---
 
@@ -100,13 +105,13 @@ A sleek and user-friendly chatting app for seamless communication.
 
 <p align="center">
   <a href="http://www.github.com/sahil1-rawat">
-    <img src="https://github-readme-stats.vercel.app/api?username=sahil1-rawat&show_icons=true&hide=stars,prs,issues,contribs&title_color=ef4444&text_color=0891b2&icon_color=a855f7&bg_color=ffffff&hide_border=true&show_icons=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sahil1-rawat&show_icons=true&hide=stars,prs,issues,contribs&title_color=6A0DAD&text_color=3B82F6&icon_color=9333EA&bg_color=f9f9f9&hide_border=true&show_icons=true" alt="GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/sahil1-rawat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil1-rawat&langs_count=10&title_color=ef4444&text_color=0891b2&icon_color=a855f7&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil1-rawat&langs_count=10&title_color=6A0DAD&text_color=3B82F6&icon_color=9333EA&bg_color=f9f9f9&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
 </p>
 
