@@ -29,6 +29,12 @@
 
 ---
 
+## 🌐 Portfolio
+
+🌟 Check out my portfolio: **[Shailendra's Portfolio](https://rawatportfolio.onrender.com/)**
+
+---
+
 ## 🛠️ Skills & Technologies
 
 ### **Programming Languages**
