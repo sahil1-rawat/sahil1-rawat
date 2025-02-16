@@ -22,7 +22,7 @@
 - 🏡 Based in **Uttarakhand, India**
 - 📩 Reach me at **[rwtshail1@gmail.com](mailto:rwtshail1@gmail.com)**
 - 🏗️ Currently building **[Trendloop-CreatingSocialWaves](https://github.com/sahil1-rawat/Trendloop-SocialMediaApp)**
-- 🚀 Learning **Next.js** to enhance my web development toolkit
+- 🚀 Learning **Flutter** to enhance my Android development toolkit
 - 💡 Fun fact: *"Debugging taught me patience and the value of a semicolon."*
 
 </div>
