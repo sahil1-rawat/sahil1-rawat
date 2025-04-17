@@ -21,7 +21,7 @@
 
 - 🏡 Based in **Uttarakhand, India**
 - 📩 Reach me at **[rwtshail1@gmail.com](mailto:rwtshail1@gmail.com)**
-- 🏗️ Currently building **[Trendloop-CreatingSocialWaves](https://github.com/sahil1-rawat/Trendloop-SocialMediaApp)**
+- 🏗️ Currently building **My Connect Mobile App using Flutter** with [Vanshika](https://github.com/vanshika0415) and [Rahul Singh Adhikari](https://github.com/adhikarijii)
 - 🚀 Learning **Flutter** to enhance my Android development toolkit
 - 💡 Fun fact: *"Debugging taught me patience and the value of a semicolon."*
 
