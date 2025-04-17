@@ -23,7 +23,7 @@
 - 📩 Reach me at **[rwtshail1@gmail.com](mailto:rwtshail1@gmail.com)**
 - 🏗️ Currently building **My Connect Mobile App using Flutter** with [Vanshika](https://github.com/vanshika0415) and [Rahul Singh Adhikari](https://github.com/adhikarijii)
 - 🚀 Learning **Flutter** to enhance my Android development toolkit
-- 💡 Fun fact: *"Debugging taught me patience and the value of a semicolon."*
+- 💡 Fun fact: "Flutter developers don't dream in color — they dream in widgets."
 
 </div>
 
