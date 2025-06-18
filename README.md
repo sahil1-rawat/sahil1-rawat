@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Shailendra Singh Rawat
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/sahil1-rawat/sahil1-rawat">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Always+Curious+to+Learn;Passionate+about+Technology&center=true&color=6A0DAD">
   </a>
 </p>
