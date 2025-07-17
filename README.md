@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/sahil1-rawat/sahil1-rawat">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Always+Curious+to+Learn;Passionate+about+Technology&center=true&color=6A0DAD">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Always+Curious+to+Learn;Passionate+about+Technology&center=true&color=6A0DAD">
   </a>
 </p>
 
